@@ -1,11 +1,30 @@
 # Driver Drowsiness Detection System
 
 ## Description
+<<<<<<< HEAD
+This is a drowsiness detection system.In the program, we check if the eyes are open or closed for a certain period of time. If closed, the program will alert the user playng an alarm sound.
+
+##Applications
+This can be used to determine if a driver is drunk
+
+##Requirements
+nose
+pytorch
+opencv-python
+
+##Working Example
+(Add Pictures and Gifs Here)
+
+
+=======
 TODO:
 
-
 ## Comparing Python and Matlab for drowsiness detection
-TODO: Do a comparative study of the 2 libraries and propose why we chose python
+OpenCv is free while Matlab isn't
+OpenCv is lightweight
+The developers were more versed with python programming language than Matlab
+OpenCv is used in production more than Matlab
+>>>>>>> 2945e60ff7491f691f82f64eb82dc40acfff089b
 
 ## Setup
 ### Requirements:
